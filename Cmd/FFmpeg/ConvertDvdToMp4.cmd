@@ -1,1 +1,0 @@
-ffmpeg -i concat:"e:\VIDEO_TS\VTS_01_1.VOB|e:\VIDEO_TS\VTS_01_2.VOB" out.mp4

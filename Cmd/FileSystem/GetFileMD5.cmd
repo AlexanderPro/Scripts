@@ -1,1 +1,0 @@
-certutil -hashfile "FILE_PATH" MD5

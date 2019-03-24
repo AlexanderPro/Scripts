@@ -1,1 +1,0 @@
-ffmpeg.exe -ss 00:00:00 -i in.mp3 -t 00:01:00 -acodec copy out.mp3
